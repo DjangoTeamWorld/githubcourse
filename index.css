@@ -39,14 +39,33 @@ body{
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(1,fr);
-    grid-template-rows: repeat(20, 200px);
+    grid-template-rows: repeat(20, 300px);
+ 
+
+   
 
 }
 .commands-description{
-    background-color: darkcyan;
-    text-align                  : center;
+    background-color            : darkcyan;
+    overflow                    : hidden;
     padding                     : 5%;
+    text-align                  : center;
     width                       : 100%;
+  
+    
+  
+}
+.commands-description p {
+    font-weight                 : bold;
+    font-size                   : 2em;
+  
 
+}
+.commands-description span{
+    color                   :  rgb(255, 255, 255);
+    font-size               :   1.2em;
+   
+  
+    
 }
 /* end conntent */
