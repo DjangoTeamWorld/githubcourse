@@ -1,0 +1,52 @@
+*{
+    margin              : 0;
+    padding             : 0;
+    box-sizing          : border-box;
+}
+
+body{
+    background-color    : brown;
+}
+
+.container-one{
+    display                     : grid;
+    grid-template-columns       : repeat(10 , 1fr);
+    grid-template-rows          : 150px 50px 50px ;
+    gap                         : 1px;
+    
+}
+.header{
+    background-color            : burlywood;
+    grid-column-start           : 1 ;
+    grid-column-end             : 11;
+    padding                     : 1%;
+    text-align                  : center;
+    
+
+}
+.commands{
+    background-color            : rgb(255, 102, 0);
+    font-weight                 : bold;
+    text-align                  : center;
+    padding                     : 5%;
+    width                       : 100%;
+
+}
+
+/* conetent  */
+.container-two{
+    background-color            : burlywood;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(1,fr);
+    grid-template-rows: repeat(20, 200px);
+
+}
+.commands-description{
+    background-color: darkcyan;
+    text-align                  : center;
+    padding                     : 5%;
+    width                       : 100%;
+
+}
+/* end conntent */
