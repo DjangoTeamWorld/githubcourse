@@ -21,31 +21,39 @@ body{
     grid-column-end             : 11;
     padding                     : 1%;
     text-align                  : center;
-    
-
 }
-.commands{
+
+
+.commands1, .commands2, .commands3,.commands4,.commands5,.commands6,.commands7,.commands8,.commands9,.commands10,
+.commands11,.commands12,.commands13,.commands14,.commands15,.commands16,.commands17,.commands18,.commands19,.commands20{
+    
     background-color            : rgb(255, 102, 0);
     font-weight                 : bold;
     text-align                  : center;
     padding                     : 5%;
     width                       : 100%;
-
 }
+
 
 /* conetent  */
 .container-two{
     background-color            : burlywood;
     display: grid;
-    gap: 10px;
+    gap: 20px;
     grid-template-columns: repeat(1,fr);
     grid-template-rows: repeat(20, 300px);
+
  
 
    
 
 }
-.commands-description{
+.commands-description1, .commands-description2,.commands-description3,.commands-description4,.commands-description5,
+.commands-description6,.commands-description7,.commands-description8,.commands-description9,.commands-description10,
+.commands-description11,.commands-description12,.commands-description13,.commands-description14,.commands-description15,
+.commands-description16,.commands-description17,.commands-description18,.commands-description19,.commands-description20,
+.commands-description21,.commands-description22,.commands-description23,.commands-description24,.commands-description25{
+
     background-color            : darkcyan;
     overflow                    : hidden;
     padding                     : 5%;
@@ -55,13 +63,24 @@ body{
     
   
 }
-.commands-description p {
+.commands-description1, .commands-description2,.commands-description3,.commands-description4,.commands-description5,
+.commands-description6,.commands-description7,.commands-description8,.commands-description9,.commands-description10,
+.commands-description11,.commands-description12,.commands-description13,.commands-description14,.commands-description15,
+.commands-description16,.commands-description17,.commands-description18,.commands-description19,.commands-description20,
+.commands-description21,.commands-description22,.commands-description23,.commands-description24,.commands-description25 ,p {
+
+    color: black;
     font-weight                 : bold;
-    font-size                   : 2em;
+    font-size                   : 1.6em;
   
 
 }
-.commands-description span{
+.commands-description1, .commands-description2,.commands-description3,.commands-description4,.commands-description5,
+.commands-description6,.commands-description7,.commands-description8,.commands-description9,.commands-description10,
+.commands-description11,.commands-description12,.commands-description13,.commands-description14,.commands-description15,
+.commands-description16,.commands-description17,.commands-description18,.commands-description19,.commands-description20,
+.commands-description21,.commands-description22,.commands-description23,.commands-description24,.commands-description25, span{
+
     color                   :  rgb(255, 255, 255);
     font-size               :   1.2em;
    

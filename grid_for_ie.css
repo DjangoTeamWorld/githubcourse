@@ -1,0 +1,230 @@
+ /* for internet explorer */
+.container-one{
+       
+        display                     : -ms-grid;
+        -ms-grid-columns            :1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr  ;
+        -ms-grid-rows               :150px 50px 50px ;
+}
+
+.header{
+    -ms-grid-column                 : 1;
+    -ms-grid-column-span            : 10;
+
+}
+
+.commands1{
+    margin                          : 0px 0px 1px 0px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 2 ;
+}
+.commands2{
+    margin                          : 0px 0px 1px 0px;
+    -ms-grid-column                 :2;
+    -ms-grid-row                    : 2 ;
+}
+.commands3{
+    margin                          : 0px 0px 1px 0px;
+    -ms-grid-column                 :3;
+    -ms-grid-row                    : 2 ;
+}
+.commands4{
+    margin                          : 0px 0px 1px 0px;
+    -ms-grid-column                 :4;
+    -ms-grid-row                    : 2 ;
+}
+.commands5{
+    margin                          : 0px 0px 1px 0px;
+    -ms-grid-column                 :5;
+    -ms-grid-row                    : 2 ;
+}
+.commands6{
+    margin                          : 0px 0px 1px 0px;
+    -ms-grid-column                 :6;
+    -ms-grid-row                    : 2 ;
+}
+.commands7{
+    margin                          : 0px 0px 1px 0px;
+    -ms-grid-column                 :7;
+    -ms-grid-row                    : 2 ;
+}
+.commands8{
+    margin                          : 0px 0px 1px 0px;
+    -ms-grid-column                 :8;
+    -ms-grid-row                    : 2 ;
+}
+.commands9{
+    margin                          : 0px 0px 1px 0px;
+    -ms-grid-column                 :9;
+    -ms-grid-row                    : 2 ;
+}
+.commands10{
+    margin                          : 0px 0px 1px 0px;
+    -ms-grid-column                 :10;
+    -ms-grid-row                    : 2 ;
+}
+.commands11{
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 3 ;
+}
+.commands12{
+    -ms-grid-column                 :2;
+    -ms-grid-row                    : 3 ;
+}
+.commands13{
+    -ms-grid-column                 :3;
+    -ms-grid-row                    : 3 ;
+}
+.commands14{
+    -ms-grid-column                 :4;
+    -ms-grid-row                    : 3 ;
+}
+.commands15{
+    -ms-grid-column                 :5;
+    -ms-grid-row                    : 3 ;
+}
+.commands16{
+    -ms-grid-column                 :6;
+    -ms-grid-row                    : 3 ;
+}
+.commands17{
+    -ms-grid-column                 :7;
+    -ms-grid-row                    : 3 ;
+}
+.commands18{
+    -ms-grid-column                 :8;
+    -ms-grid-row                    : 3 ;
+}
+.commands19{
+    -ms-grid-column                 :9;
+    -ms-grid-row                    : 3 ;
+}
+.commands20{
+    -ms-grid-column                 :10;
+    -ms-grid-row                    : 3 ;
+}
+
+
+.container-two{
+
+    /* for IE */
+    display                             : -ms-grid;
+    -ms-grid-columns                    :1fr ;
+    -ms-grid-rows                       :300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px ;
+    
+ }
+ .commands-description1{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 1 ;
+   
+ }
+ .commands-description2{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 2 ;
+ }
+ .commands-description3{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 3 ;
+ }
+ .commands-description4{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 4 ;
+ }
+ .commands-description5{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 5 ;
+ }
+ .commands-description6{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 6 ;
+ }
+ .commands-description7{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 7 ;
+ }
+ .commands-description8{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 8 ;
+ }
+ .commands-description9{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 9 ;
+ }
+ .commands-description10{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 10 ;
+ }
+ .commands-description11{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 11 ;
+ } 
+ .commands-description12{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 12 ;
+ } 
+ .commands-description13{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 13 ;
+ } 
+ .commands-description14{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 14 ;
+ }
+  .commands-description15{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 15 ;
+ }
+  .commands-description16{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 16 ;
+ }
+  .commands-description17{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 17 ;
+ }
+  .commands-description18{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    :  18 ;
+ }
+  .commands-description19{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 19 ;
+ }
+  .commands-description20{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 20 ;
+ }
+  .commands-description21{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 21 ;
+ }
+  .commands-description22{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 22 ;
+ }
+  .commands-description23{
+    margin-bottom                   : 10px;
+    -ms-grid-column                 :1;
+    -ms-grid-row                    : 23 ;
+ }
